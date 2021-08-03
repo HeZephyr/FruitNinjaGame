@@ -1,0 +1,19 @@
+{
+	"game": {
+		"name": "NewFruitNinja",
+		"appid": "661461843",
+		"cid": 0
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "661461843",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "appleSplit",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "splitLeft": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -3.6
+            },
+            {
+              "frame": 0.4,
+              "value": -30
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 30
+            }
+          ]
+        }
+      },
+      "splitRight": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2.7
+            },
+            {
+              "frame": 0.4,
+              "value": 30
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0.6
+            },
+            {
+              "frame": 0.4,
+              "value": 8
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": -80
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
